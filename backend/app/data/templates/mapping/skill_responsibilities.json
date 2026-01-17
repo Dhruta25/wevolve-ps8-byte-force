@@ -1,0 +1,47 @@
+{
+  "Python": [
+    "Develop and maintain Python-based backend services",
+    "Write clean, efficient, and testable code",
+    "Implement complex business logic in Python"
+  ],
+  "FastAPI": [
+    "Build high-performance REST APIs using FastAPI",
+    "Design and implement asynchronous API endpoints",
+    "Integrate FastAPI with various third-party services"
+  ],
+  "PostgreSQL": [
+    "Design and optimize complex database schemas",
+    "Write and tune advanced SQL queries for performance",
+    "Manage data migrations and database integrity"
+  ],
+  "JavaScript": [
+    "Develop interactive and responsive user interfaces",
+    "Write clean, modular, and reusable JavaScript code",
+    "Implement dynamic client-side logic and API integrations"
+  ],
+  "React": [
+    "Build scalable and maintainable React applications",
+    "Manage complex application state using React Hooks or Redux",
+    "Develop reusable UI components for a consistent user experience"
+  ],
+  "Node.js": [
+    "Build scalable server-side applications using Node.js",
+    "Develop real-time applications using WebSockets",
+    "Implement middleware and security protocols for backend services"
+  ],
+  "TypeScript": [
+    "Implement type-safe code for better maintainability and catch errors early",
+    "Design and use interfaces and types for robust data structures",
+    "Configure and optimize TypeScript projects for development productivity"
+  ],
+  "Docker": [
+    "Containerize applications for consistent deployment across environments",
+    "Manage Docker images and multi-container orchestration",
+    "Optimize Dockerfiles for efficient build times and small image sizes"
+  ],
+  "AWS": [
+    "Deploy and manage applications on Amazon Web Services",
+    "Utilize AWS services like S3, EC2, and Lambda for scalable architecture",
+    "Implement cloud security best practices and IAM policies"
+  ]
+}
