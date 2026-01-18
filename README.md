@@ -156,4 +156,18 @@ Generates a structured, ATS-friendly job description using a rule-based system, 
   }
 }
 ```
+---
+
+## Team Members
+
+| Name | GitHub |
+|------|--------|
+| **Shivam Dubey** | [GitHub Profile](https://github.com/devsivv) |
+| **Dhrutabrata Biswal** | [GitHub Profile](https://github.com/Dhruta25) |
+| **Saloni Sahoo** | [GitHub Profile](https://github.com/saloni259) |
+
+---
+
+Built by **Byte_Force** team at **January Cohort, NIT Rourkela**
+
 
